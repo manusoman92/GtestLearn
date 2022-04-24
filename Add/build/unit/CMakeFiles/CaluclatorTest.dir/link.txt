@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CaluclatorTest.dir/calculatortest.cpp.o CMakeFiles/CaluclatorTest.dir/__/src/calculator.cpp.o -o CaluclatorTest  /usr/lib/libgtest.a ../libCalculator.a -lpthread 
